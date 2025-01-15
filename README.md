@@ -1,13 +1,13 @@
 <h1 align="center">Holaa 👋, Soy Nehemias Muñoz</h1>
 <h3 align="center">Bienvenido a mi perfil.</h3>
 
-💬 Ask me about:
+💬 Hablemos sobre:
 - **Java || Springboot.**
 - **Dart || Flutter**
   
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conectemos:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/nehemiasmunoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nehemiasmunoz" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nehemiasmunoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nehemiasmunoz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Lenguajes y herramientas:</h3>
